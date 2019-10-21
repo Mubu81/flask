@@ -1,0 +1,11 @@
+h1 {
+    background-color: darkred;
+    color: white;
+    margin-bottom: 5px;
+    margin:0;
+}
+
+body {
+    font-family: Arial;
+    margin: 0;
+}
